@@ -1,7 +1,7 @@
 # PMI_SF_Case
 PMI San Francisco Case
 
-Notebook Definitions and order of running processe
+Notebook Definitions and order of running process
 
 PMI_Case_0_Data_Preparation.ipynb : Data Preparation and Feature engineering process takes place in this notebook.
 
